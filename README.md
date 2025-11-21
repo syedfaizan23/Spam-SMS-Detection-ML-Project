@@ -1,4 +1,4 @@
-sms-spam.png
+![SMS Spam Detection](sms-spam.png)
 # Spam-SMS-Detection-ML-Project
 📌 Spam SMS Detection using Naive Bayes
 
