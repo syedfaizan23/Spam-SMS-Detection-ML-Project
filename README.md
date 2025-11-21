@@ -3,9 +3,9 @@
 📌 Spam SMS Detection using Naive Bayes
 
 This project is a simple and effective Machine Learning model that classifies SMS messages as Spam or Not Spam using the Multinomial Naive Bayes algorithm.
-The entire workflow — from data cleaning to model training — is implemented in a Jupyter Notebook.
+The entire workflow from data cleaning to model training is implemented in a Jupyter Notebook.
 
-✨ Key Features (Based on Your Notebook Steps)
+✨ Key Features
 
 These are the typical steps included in your notebook:
 
@@ -41,7 +41,7 @@ Learns patterns of spam words vs normal words
 
 ✔ 5. Model Evaluation
 
-Calculates accuracy score
+Calculates the accuracy score
 
 Prints confusion matrix or classification report (precision, recall, F1-score)
 
